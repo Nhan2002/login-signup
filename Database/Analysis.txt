@@ -1,0 +1,10 @@
+Phân tích dự án
+- Fontend
+    - Trang chủ
+    - Đăng nhập
+    - Đăng ký
+- Admin
+    - Quản lý tài khoản người dùng:
+        - Quản lý người dùng (admin/user)
+            Hiển thị danh sách/thêm/sửa/xóa
+    - Đăng nhập
